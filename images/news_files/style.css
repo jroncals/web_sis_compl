@@ -1,0 +1,343 @@
+div.goog-te-gadget-simple{ border-width:2px; border-color:green; background:#000; }
+a.goog-te-menu-value{ text-decoration:none; }
+a.goog-te-menu-value > span{ font-family:"Times New Roman"; color:white; font-size: 22px !important; }
+
+.Mainheadline
+{
+	font-size: 55px;
+	color: #1F3F6E;
+}
+
+.negritas
+{
+	font-size: 38px !important;
+	color: #1F3F6E;
+}
+
+.negritas3
+{
+	font-size: 28px !important;
+	color: blue;
+	text-decoration: underline;
+}
+
+.texto
+{
+	font-size: 28px;
+	color: black;
+	text-align: justify;
+}
+
+.email
+{
+	font-size: 21px;
+	color: black;
+	text-align: justify;
+}
+
+.email2
+{
+	font-size: 25px;
+	color: black;
+	text-align: justify;
+}
+
+.textoplomo
+{
+	font-size: 16px;
+	color: gray;
+}
+
+body 
+{
+	background-color: white;
+}
+
+.menuLabel1
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel2
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel3
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel4
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel5
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel6
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel7
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel8
+{
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	color: white;
+	padding: 6px;
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.menuLabel1:hover
+{
+	background-color: #61EB58;
+
+}
+
+.menuLabel2:hover
+{
+	background-color: #9C34B6;
+}
+
+.menuLabel3:hover
+{
+	background-color: #F37549;
+}
+
+.menuLabel4:hover
+{
+	background-color: #13A0FA;
+}
+
+.menuLabel5:hover
+{
+	background-color: #4679A7;
+}
+
+.menuLabel6:hover
+{
+	background-color: #2D2166;
+
+}
+
+.menuLabel7:hover
+{
+	background-color: #F7AD3D;
+}
+
+.menuLabel8:hover
+{
+	background-color: #E23E2C;
+}
+
+.fondoplomo
+{
+	background-color: #27282A;
+}
+
+.fondonegro
+{
+	background-color: black;
+}
+
+.menuDiv
+{
+	background-color: black;
+	padding: 10px;
+}
+
+.ausDiv
+{
+	border: 1px solid white;
+}
+
+.ausImg
+{
+	width: auto;
+	height: 260px;
+	padding: 10px;
+}
+
+.ausImg11
+{
+	width: 270px;
+	height: 180px;
+	padding: 10px;
+}
+
+.ausImg5
+{
+	width: auto;
+	height: 230px;
+	padding: 10px;
+}
+
+.newlogo
+{
+	width: auto;
+	height: 15px;
+}
+
+.logo2
+{
+	width: auto;
+	height: 162px;
+}
+
+.logo
+{
+	width: auto;
+	height: 150px;
+}
+
+.logobol
+{
+	width: auto;
+	height: 23px;
+}
+
+.container
+{
+	width: 800px;
+	height: auto;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.76); /*BORRAR ESTO PARA QUE EL CONTAINER NO TENGA COLOR DE FONDO Y 0.74 ES LA OPACIDAD*/
+}
+
+.ausImg3
+{
+	width: 1100px;
+	height: auto;
+	padding: 10px;
+}
+
+.prueba
+{
+	width: 100px;
+	height: auto;
+	padding: 10px;
+}
+
+.prueba2
+{
+	background-color: A6A59F;
+	padding: 0px;
+}
+
+.prueba3
+{
+	background-color: 3B6FF1;
+	padding: 0px;
+}
+
+.mainImg
+{
+	width: 1200px;
+	height: auto;
+	padding: 10px;
+}
+
+.ausImg2
+{
+	width: 130px;
+	height: auto;
+	padding: 10px;
+}
+
+.ausImg4
+{
+	width: 980px;
+	height: auto;
+	padding: 10px;
+}
+
+.miniheadline
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.miniheadline2
+{
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.stilo1
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.estilacho
+{
+	font-size: 21px;
+	
+}
+
+table, th, td
+{
+	border: 1px solid black;
+	font-size: 25px;
+}
+
+#contentder img {
+  float: right;
+}
+
+#contentizq img {
+  float: left;
+}
